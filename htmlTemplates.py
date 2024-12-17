@@ -30,7 +30,7 @@ css = '''
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
-        <img src="https://github.com/HenryBakerx/Bot-12.2/blob/c523a838e3444f7e8116ce311eccf13d191f2109/images/citiz%20logo.png" 
+        <img src="https://raw.githubusercontent.com/HenryBakerx/Bot-12.2/c523a838e3444f7e8116ce311eccf13d191f2109/images/citiz%20logo.png" 
              style="max-height:78px; max-width:78px; border-radius:50%; object-fit:cover;">
     </div>
     <div class="message">{{MSG}}</div>
